@@ -7,7 +7,7 @@ description: "sqrt chicken"
 keyword: "rust ruler"
 url: "https://chicken2011.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://githubfast.com/chicken2011/chicken2011.github.io.git" # you code repository
+github_repo: "https://github.com/chicken2011/chicken2011.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
